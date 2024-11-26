@@ -1,0 +1,6 @@
+opmode,temp,start,end,name
+pos,400,4.8,5.2,gold
+neg,300,7.3,7.5,iron
+pos,200,5.8,6.3,water
+neg,100,7.1,7.8,alcohol
+neg,350,13,13.8,oil
