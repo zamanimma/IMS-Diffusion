@@ -1,6 +1,5 @@
 opmode,temp,name,peaknum,start1,end1,start2,end2,start3,end3,start4,end4
-pos,400,Oxygen,1,7.2,7.8,,,,,,
-neg,300,Oil,1,9.4,9.9,,,,,,
-pos,200,Ethanol,4,5.5,6,7.4,7.9,8,8.4,10.2,10.8
-neg,100,Methanol,2,6.8,7.2,,,,,,
-pos,400,Melatonin,1,7,8,,,,,,
+pos,4000,Oxygen,1,7.2,7.8,,,,,,
+neg,400,Oil,1,9.4,9.9,,,,,,
+pos,400,Ethanol,4,5.5,6,7,7.3,7.5,8.4,14,14.5
+neg,400,Sulforic,2,6.8,7.2,,,,,,
