@@ -13,21 +13,21 @@
 		<Item Name="IMS DAC.vi" Type="VI" URL="../IMS DAC.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="DeviceGetList.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/DeviceManager.llb/DeviceGetList.vi"/>
-				<Item Name="SelectDevicePop.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/EasyPopUp.llb/SelectDevicePop.vi"/>
-				<Item Name="DeviceOpen.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/DeviceManager.llb/DeviceOpen.vi"/>
-				<Item Name="DeviceClose.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/DeviceManager.llb/DeviceClose.vi"/>
-				<Item Name="ADV AI Config.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Config.vi"/>
-				<Item Name="ADV Channel List to Number.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/AdditionalCfg.llb/ADV Channel List to Number.vi"/>
-				<Item Name="ADV AI Start.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Start.vi"/>
-				<Item Name="ADV AI Read.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Read.vi"/>
-				<Item Name="ADV AI Read (binary).vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Read (binary).vi"/>
-				<Item Name="ADV AI Read (scaled).vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Read (scaled).vi"/>
-				<Item Name="ADV AI Read (binary&amp;scaled).vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Read (binary&amp;scaled).vi"/>
-				<Item Name="ADV AI Read (waveform).vi" Type="VI" URL="/&lt;userlib&gt;/Advantech DAQ/Ai.llb/ADV AI Read (waveform).vi"/>
-				<Item Name="DIOWriteBit.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/SlowDIO.llb/DIOWriteBit.vi"/>
-				<Item Name="AOVoltageOut.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/SlowAO.llb/AOVoltageOut.vi"/>
-				<Item Name="DIOReadBit.vi" Type="VI" URL="/&lt;userlib&gt;/Advantech/SlowDIO.llb/DIOReadBit.vi"/>
+				<Item Name="DeviceGetList.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/DeviceManager.llb/DeviceGetList.vi"/>
+				<Item Name="SelectDevicePop.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/EasyPopUp.llb/SelectDevicePop.vi"/>
+				<Item Name="DeviceOpen.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/DeviceManager.llb/DeviceOpen.vi"/>
+				<Item Name="DeviceClose.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/DeviceManager.llb/DeviceClose.vi"/>
+				<Item Name="ADV AI Config.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Config.vi"/>
+				<Item Name="ADV Channel List to Number.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/AdditionalCfg.llb/ADV Channel List to Number.vi"/>
+				<Item Name="ADV AI Start.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Start.vi"/>
+				<Item Name="ADV AI Read.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Read.vi"/>
+				<Item Name="ADV AI Read (binary).vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Read (binary).vi"/>
+				<Item Name="ADV AI Read (scaled).vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Read (scaled).vi"/>
+				<Item Name="ADV AI Read (binary&amp;scaled).vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Read (binary&amp;scaled).vi"/>
+				<Item Name="ADV AI Read (waveform).vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech DAQ/Ai.llb/ADV AI Read (waveform).vi"/>
+				<Item Name="DIOWriteBit.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/SlowDIO.llb/DIOWriteBit.vi"/>
+				<Item Name="AOVoltageOut.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/SlowAO.llb/AOVoltageOut.vi"/>
+				<Item Name="DIOReadBit.vi" Type="VI" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/user.lib/Advantech/SlowDIO.llb/DIOReadBit.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
@@ -62,7 +62,6 @@
 				<Item Name="Color Slider.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/Buttons/Color Slider.ctl"/>
 				<Item Name="3D Ribbon.xctl" Type="XControl" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Ribbon/3D Ribbon XCtrl/3D Ribbon.xctl"/>
 				<Item Name="3D Ribbon.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Ribbon/3D Ribbon/3D Ribbon.lvclass"/>
-				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 				<Item Name="3DMathPlot Action String.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/Action String/3DMathPlot Action String.ctl"/>
 				<Item Name="3DMathPlot Action String.vi" Type="VI" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/Action String/3DMathPlot Action String.vi"/>
@@ -122,9 +121,25 @@
 				<Item Name="Write Registry Value DWORD.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Write Registry Value DWORD.vi"/>
 				<Item Name="Write Registry Value Simple U32.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Write Registry Value Simple U32.vi"/>
 				<Item Name="Create Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Create Registry Key.vi"/>
+				<Item Name="NI_AAL_SigProc.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AAL_SigProc.lvlib"/>
+				<Item Name="Read From Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File.vi"/>
+				<Item Name="Read From Spreadsheet File (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (DBL).vi"/>
+				<Item Name="Read Lines From File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File.vi"/>
+				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
+				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
+				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
+				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
+				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
+				<Item Name="Read From Spreadsheet File (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (I64).vi"/>
+				<Item Name="Read From Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (string).vi"/>
+				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
+				<Item Name="Write To Spreadsheet File (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (DBL).vi"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
+				<Item Name="Write To Spreadsheet File (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (I64).vi"/>
+				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
-				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 			</Item>
 			<Item Name="AdvLvDaq.dll" Type="Document" URL="AdvLvDaq.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -135,9 +150,8 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../../../Program Files/National Instruments/LabVIEW 2009/resource/lvanlys.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../../C/Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
 			<Item Name="_LaunchHelp.vi" Type="VI" URL="/&lt;helpdir&gt;/_LaunchHelp.vi"/>
-			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="IMS DAC" Type="EXE">
